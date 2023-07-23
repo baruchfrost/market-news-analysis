@@ -1,1 +1,3 @@
-# market-news-analysis
+# Market News Analysis
+
+This market news analysis was performed by Bella, Tiago, and Baruch. We acquired financial headline data from Reuters, CNBC, and Guardian (obtained via Kaggle), performed sentiment analysis using the TextBlob library, and analyzed the correlation between the headline sentiment data and the Dow Jones Industrial Average over a one-year period starting in July, 2019. Our correlation analyses are presented in the following notebooks: [CNBC Daily News to Market Correlation.ipynb](<CNBC Daily News to Market Correlation.ipynb>), [Guardian Daily News to Market Correlation.ipynb](<Guardian Daily News to Market Correlation.ipynb>), [Reuters Daily News to Market Correlation.ipynb](<Reuters Daily News to Market Correlation.ipynb>), and [Combined Daily News to Market Correlation.ipynb](<Combined Daily News to Market Correlation.ipynb>).  The other notebooks were used to perform the sentiment analysis on the headline data.
